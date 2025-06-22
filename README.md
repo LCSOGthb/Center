@@ -17,6 +17,9 @@ Codacy
 CodeFactor
 [![CodeFactor](https://www.codefactor.io/repository/github/lcsogthb/center/badge)](https://www.codefactor.io/repository/github/lcsogthb/center)
 
+CodeRabbit
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/LCSOGthb/Games?utm_source=oss&utm_medium=github&utm_campaign=LCSOGthb%2FGames&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 Qlty
 [![Maintainability](https://qlty.sh/badges/9328fe4b-e641-42e5-88b1-165284c0351c/maintainability.svg)](https://qlty.sh/gh/LCSOGthb/projects/Center)
 [![Code Coverage](https://qlty.sh/badges/9328fe4b-e641-42e5-88b1-165284c0351c/test_coverage.svg)](https://qlty.sh/gh/LCSOGthb/projects/Center)
