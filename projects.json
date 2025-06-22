@@ -1,12 +1,12 @@
 [
   {
-    "name": "LWahr",
-    "description": "A brief description of the LWahr project.",
-    "url": "https://lwahr.vercel.app/"
+    "name": "Tools",
+    "description": "My Tools Website",
+    "url": "https://ltools.vercel.app/"
   },
   {
-    "name": "LClown",
-    "description": "A brief description of the LClown project.",
-    "url": "https://lclown.vercel.app/"
+    "name": "Games",
+    "description": "My Games Website",
+    "url": "https://lgames.vercel.app/"
   }
 ]
