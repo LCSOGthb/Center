@@ -38,3 +38,6 @@ DeepSource
 [![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=code+coverage&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
 [![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=active+issues&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
 [![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=resolved+issues&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
+
+OSSF
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/LCSOGthb/Center/badge)](https://scorecard.dev/viewer/?uri=github.com/LCSOGthb/Center)
