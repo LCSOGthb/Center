@@ -17,3 +17,8 @@ SonarQube
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=LCSOGthb_center&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=LCSOGthb_center)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=LCSOGthb_center&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=LCSOGthb_center)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=LCSOGthb_center&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=LCSOGthb_center)
+
+DeepSource
+[![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=code+coverage&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
+[![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=active+issues&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
+[![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=resolved+issues&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
