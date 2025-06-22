@@ -1,3 +1,16 @@
+![Lines Of Code](https://tokei.rs/b1/github/LCSOGthb/Center)
+![Repo Size](https://img.shields.io/github/repo-size/LCSOGthb/Center)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/LCSOGthb/Center)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/LCSOGthb/Center)
+![Last Commit](https://img.shields.io/github/last-commit/LCSOGthb/Center)
+![Open Issues](https://img.shields.io/github/issues/LCSOGthb/Center)
+![Closed Issues](https://img.shields.io/github/issues-closed/LCSOGthb/Center)
+![Pull Requests](https://img.shields.io/github/issues-pr/LCSOGthb/Center)
+![GitHub branch status](https://img.shields.io/github/checks-status/LCSOGthb/Center/main)
+![GitHub branch check runs](https://img.shields.io/github/check-runs/LCSOGthb/Center/main)
+![GitHub language count](https://img.shields.io/github/languages/count/LCSOGthb/Center)
+![GitHub top language](https://img.shields.io/github/languages/top/LCSOGthb/Center)
+
 Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0d3d3c1f78b44b88472e02f67ed3210)](https://app.codacy.com/gh/LCSOGthb/Center/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
