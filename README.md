@@ -24,8 +24,10 @@ Codacy:
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0d3d3c1f78b44b88472e02f67ed3210)](https://app.codacy.com/gh/LCSOGthb/Center/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 Codecov:
+[![codecov](https://codecov.io/github/LCSOGthb/Center/graph/badge.svg?token=J8DKCPW6Z2)](https://codecov.io/github/LCSOGthb/Center)
 
 CircleCI:
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/LCSOGthb/Center/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/LCSOGthb/Center/tree/main)
 
 DeepSource:
 [![DeepSource](https://app.deepsource.com/gh/LCSOGthb/Center.svg/?label=code+coverage&show_trend=true&token=swORycKlZC3xw8J7c-zTF3A0)](https://app.deepsource.com/gh/LCSOGthb/Center/)
