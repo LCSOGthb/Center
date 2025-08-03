@@ -1,12 +1,12 @@
 [
   {
     "name": "Tools",
-    "description": "My Tools Website",
+    "description": "A collection of useful web-based tools I've built.",
     "url": "https://ltools.vercel.app/"
   },
   {
     "name": "Games",
-    "description": "My Games Website",
+    "description": "A showcase of browser-based games I've created.",
     "url": "https://lgames.vercel.app/"
   }
 ]
