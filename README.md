@@ -40,6 +40,8 @@ Qlty:
 [![Code Coverage](https://qlty.sh/badges/9328fe4b-e641-42e5-88b1-165284c0351c/test_coverage.svg)](https://qlty.sh/gh/LCSOGthb/projects/Center)
 
 Scrutinizer:
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/LCSOGthb/Center/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/LCSOGthb/Center/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/LCSOGthb/Center/badges/build.png?b=main)](https://scrutinizer-ci.com/g/LCSOGthb/Center/build-status/main)
 
 Snyk:
 [![Known Vulnerabilities](https://snyk.io/test/github/LCSOGthb/Center/badge.svg)](https://snyk.io/test/github/LCSOGthb/Center)
