@@ -1,12 +1,17 @@
 [
   {
     "name": "Tools",
-    "description": "A collection of useful web-based tools I've built.",
+    "description": "A collection of useful web-based tools.",
     "url": "https://ltools.vercel.app/"
   },
   {
     "name": "Games",
-    "description": "A showcase of browser-based games I've created.",
+    "description": "A showcase of browser-based games.",
     "url": "https://lgames.vercel.app/"
+  },
+  {
+    "name": "GAG-Trade-Sys",
+    "description": "A trading system for Grow A Garden. (Discontuned)",
+    "url": "https://lgts.vercel.app"
   }
 ]
